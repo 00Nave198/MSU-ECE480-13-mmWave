@@ -3,4 +3,6 @@ MSU ECE480 FS20 Team 13 Capstone
 Thanks to:
 Jacob, Jon, Sabrein, Zening, and Evan
 
-Data and code coming soon...
+#### Getting Started:
+View the documentation under the source directory for information on the code  
+View the documentation under the data directory for information on the data
